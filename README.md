@@ -1,2 +1,1 @@
-# promotion-test
-promotion gnb commit test
+//Commit new file
